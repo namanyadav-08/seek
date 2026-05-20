@@ -110,6 +110,3 @@ Quick summary: push to GitHub → connect Render → set `GOOGLE_API_KEY` → de
 
 The free tier limits requests per model per day (e.g. **20/day** for `gemini-2.5-flash`). If you hit the limit, you'll see a quota error — wait for the reset or enable billing in Google AI Studio.
 
-## License
-
-MIT (or your choice — add a `LICENSE` file if you publish the repo.)
